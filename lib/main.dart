@@ -54,6 +54,16 @@ class MyInfo extends StatelessWidget{
           'Occupation: Software Engineer Intern',
           style: TextStyle(fontSize: 24),
         ),
+        SizedBox(height: 10),
+        Text(
+          'Address: Kathmandu, Nepal',
+          style: TextStyle(fontSize: 24), 
+        ),
+        SizedBox(height: 10),
+        Text(
+          'Graduation: Electronics and Communication Engineering',
+          style: TextStyle(fontSize: 24), 
+        ),
       ],
     );
   }
